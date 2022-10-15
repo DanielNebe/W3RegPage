@@ -1,0 +1,10 @@
+.RegPage_button{
+    background: #212121;
+    padding: 10px 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: whitesmoke;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+}
